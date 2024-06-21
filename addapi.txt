@@ -9,3 +9,4 @@ proxyip.oracle.fxxk.dedyn.io:2096#域名
 proxyip.digitalocean.fxxk.dedyn.io:2096#域名
 bestproxy.onecf.eu.org:2096#域名
 ipdb.rr.nu:2096#域名
+proxy.cdn.xn--b6gac.eu.org:2096#域名
